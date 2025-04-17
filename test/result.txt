@@ -1,0 +1,4 @@
+dont't use Connection pool and single thread, time is 14541ms
+use Connection pool and single thread, time is 3424ms
+dont't use Connection pool and multiply thread, time is 7197ms
+use Connection pool and multiply thread, time is 1278ms
